@@ -1,0 +1,28 @@
+p {
+    font-family: Arial Unicode MS, sans-serif;
+    font-size:11pt;
+    color: #000000;
+}
+
+h3 {
+    font-family: Bell MT;
+    font-size: 20pt;
+    color: rgb(155, 50, 60);
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+#keywordsHeader {
+    color: red;
+}
+
+.greenHeader {
+    color: red;
+}
+
+.underlinedHeader {
+    text-decoration: underline;
+}
