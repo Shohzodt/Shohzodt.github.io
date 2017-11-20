@@ -26,3 +26,11 @@ h1 {
 .underlinedHeader {
     text-decoration: underline;
 }
+
+.headercolor{
+    color: white;
+
+}
+h4{
+    color: white;
+}
