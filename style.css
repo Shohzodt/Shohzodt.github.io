@@ -43,6 +43,3 @@ h1 {
 .underlinedHeader {
     text-decoration: underline;
 }
-.photo {
-    background-image: url(photo.jpg);
-}
