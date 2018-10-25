@@ -6,6 +6,10 @@ p {
 body{
     background: url(back.jpg) no-repeat fixed center;
 }
+img{
+    width: 200px;
+    height: 250px;
+}
 @media screen and (max-width: 1200px) {
     body {
         width: 992px;
