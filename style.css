@@ -3,7 +3,24 @@ p {
     font-size:11pt;
     color: #000000;
 }
-
+body{
+    background: url(back.jpg) no-repeat fixed center;
+}
+@media screen and (max-width: 1200px) {
+    body {
+        width: 992px;
+    }
+}
+@media screen and (max-width: 992px) {
+    body {
+        width: 768px;
+    }
+}
+@media screen and (max-width: 768px) {
+    body {
+        width: 576px;
+    }
+}
 h3 {
     font-family: Bell MT;
     font-size: 20pt;
@@ -26,11 +43,6 @@ h1 {
 .underlinedHeader {
     text-decoration: underline;
 }
-
-.headercolor{
-    color: white;
-
-}
-h4{
-    color: white;
+.photo {
+    background-image: url(photo.jpg);
 }
